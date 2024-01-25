@@ -1,4 +1,4 @@
-# EDK2 UEFI firmware for Memetek Platforms
+# EDK2 UEFI firmware for Mediatek Platforms
 
 ![banner_wide_dark](https://user-images.githubusercontent.com/17036722/199902341-b086ec31-8d5c-4766-953a-8b9e1492de8b.png)
 

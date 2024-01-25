@@ -50,4 +50,4 @@ jobs:
         with: # Artifact name
           name: ${{ matrix.device }}
           # A file, directory or wildcard pattern that describes what to upload
-          path: ./*.img
+          path: /home/runner/work/edk2-mtk/edk2-mtk/boot-ruby.img
